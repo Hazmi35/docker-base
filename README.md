@@ -1,2 +1,2 @@
 # docker-base (WIP)
-A base repository that contains collections of Docker (OCI) base image
+A base repository that contains collections of Docker (OCI format) base image 
